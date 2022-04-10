@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.3.1","tmVersion":"2.4.4","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2022-01-09T14:20:50.726Z","userMetadata":{},"modelName":"Classifying Plastics","labels":["Class 1- PETE","Class 2- HDPE","Class 3- PVC","Class 4- LDPE","Class 5- PP","Class 6- PS","Class 7- OTHER","Class 8- MULTILAYER"],"imageSize":224}

@@ -1,5 +1,6 @@
 import './App.css';
 import ml5 from "ml5";
+// const ml5 = require('ml5');
 import React, { useEffect, useRef, useState } from 'react';
 // import Loader from 'react-loader-spinner';
 import Plastic from './Plastic';

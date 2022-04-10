@@ -1,7 +1,7 @@
 {
   "main.css": "/plasticlass/static/css/main.05fc85be.chunk.css",
-  "main.js": "/plasticlass/static/js/main.ea146f20.chunk.js",
-  "main.js.map": "/plasticlass/static/js/main.ea146f20.chunk.js.map",
+  "main.js": "/plasticlass/static/js/main.201a89d7.chunk.js",
+  "main.js.map": "/plasticlass/static/js/main.201a89d7.chunk.js.map",
   "static/js/1.6d726910.chunk.js": "/plasticlass/static/js/1.6d726910.chunk.js",
   "static/js/1.6d726910.chunk.js.map": "/plasticlass/static/js/1.6d726910.chunk.js.map",
   "static/css/2.86751f4b.chunk.css": "/plasticlass/static/css/2.86751f4b.chunk.css",
@@ -12,6 +12,6 @@
   "static/css/2.86751f4b.chunk.css.map": "/plasticlass/static/css/2.86751f4b.chunk.css.map",
   "static/css/main.05fc85be.chunk.css.map": "/plasticlass/static/css/main.05fc85be.chunk.css.map",
   "index.html": "/plasticlass/index.html",
-  "precache-manifest.88111cf812e83a5040b53933ec728de7.js": "/plasticlass/precache-manifest.88111cf812e83a5040b53933ec728de7.js",
+  "precache-manifest.d1a2e031ba94f7531320408aa43fb617.js": "/plasticlass/precache-manifest.d1a2e031ba94f7531320408aa43fb617.js",
   "service-worker.js": "/plasticlass/service-worker.js"
 }

@@ -1,5 +1,5 @@
 # PlastiClass
-Submitted @ Ideate2022, Hackathon hosted by DukeHacks
+Submitted @ Ideate2022, Hackathon hosted by DukeHacks; **Overall Winner!**
 
 Hackathon Submission Link: https://devpost.com/software/plasticlass-gidasn
 
